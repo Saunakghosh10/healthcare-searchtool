@@ -13,14 +13,6 @@ PubMed Healthcare Chatbot is an AI-powered assistant designed to provide healthc
 - **LLM Augmentation**: Uses advanced language models to generate coherent and informative responses.
 - **User-Friendly Interface**: Seamless interaction through a web interface powered by Gradio.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 To get started with PubMed Healthcare Chatbot, follow these steps:
@@ -92,6 +84,3 @@ Contributions are welcome! Please follow these steps to contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
-
-Feel free to customize this template according to your project's specifics and requirements.
